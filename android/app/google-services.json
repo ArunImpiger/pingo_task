@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007519580396",
+    "project_id": "pingo-749de",
+    "storage_bucket": "pingo-749de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007519580396:android:0314e67ff9dd4b99a9a5c9",
+        "android_client_info": {
+          "package_name": "com.pingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagPRuH1xa5-tgz_WGyCGbMYK4Lbg1nIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
