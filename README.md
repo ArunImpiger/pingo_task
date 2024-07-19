@@ -1,6 +1,17 @@
 # pingo_task
 
-A new Flutter project.
+The Challenge:
+You have to build an e-commerce app which uses Firebase Authentication,
+Firebase Remote Config and will fetch products from
+https://dummyjson.com/products as per the specified designs.
+
+Steps to run app
+Step 1 : Flutter version - 3.22.1 
+Step 2 : flutter pub get 
+step 3 : flutter run
+
+Username : arun@gamil.com
+password : 123456
 
 ## Getting Started
 
