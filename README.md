@@ -16,11 +16,12 @@ password : 123456
 ## Screenshots
 
 <p float="left">
-  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="300"/>
-  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.36 PM.png" alt="Screenshot" width="300"/>
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="500"/>
+
 </p>
 
 <p float="left">
+    <img src="./screenshots/Screenshot 2024-08-13 at 1.18.36 PM.png" alt="Screenshot" width="300"/>
   <img src="./screenshots/Screenshot 2024-08-13 at 1.19.01 PM.png" alt="Screenshot" width="300"/>
   <img src="./screenshots/Screenshot 2024-08-13 at 1.19.15 PM.png" alt="Screenshot" width="300"/>
 </p>
