@@ -13,12 +13,18 @@ step 3 : flutter run
 Username : arun@gamil.com
 password : 123456
 
-## Video Preview
+## Screenshots
 
-<video width="300" controls>
-   <source src="./screen_record.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+<p float="left">
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="300"/>
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.36 PM.png" alt="Screenshot" width="300"/>
+</p>
+
+<p float="left">
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.19.01 PM.png" alt="Screenshot" width="300"/>
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.19.15 PM.png" alt="Screenshot" width="300"/>
+</p>
+
 
 
 This project is a starting point for a Flutter application.
