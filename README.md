@@ -13,7 +13,12 @@ step 3 : flutter run
 Username : arun@gamil.com
 password : 123456
 
-## Getting Started
+## Video Preview
+
+ <video width="300" controls>
+    <source src="./screen_record.mov" type="video/mov">
+    Your browser does not support the video tag.
+  </video>
 
 This project is a starting point for a Flutter application.
 
