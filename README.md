@@ -15,10 +15,11 @@ password : 123456
 
 ## Video Preview
 
- <video width="300" controls>
-    <source src="./screen_record.mov" type="video/mov">
-    Your browser does not support the video tag.
-  </video>
+<video width="300" controls>
+   <source src="./screen_record.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
+
 
 This project is a starting point for a Flutter application.
 
