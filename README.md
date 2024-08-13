@@ -19,8 +19,12 @@ password : 123456
   <img src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="600"/>
   <img src="./screenshots/Screenshot 2024-08-13 at 1.19.01 PM.png" alt="Screenshot" width="600"/>
 </div>
+
+<div style= "display:flex; flex-direction:row" >
  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.36 PM.png" alt="Screenshot" width="300"/>
  <img src="./screenshots/Screenshot 2024-08-13 at 1.19.15 PM.png" alt="Screenshot" width="300"/>
+</div>
+
 
 
 This project is a starting point for a Flutter application.
